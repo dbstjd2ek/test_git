@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void){
-int a = 10, b = 20;
+int a = 10,
 if(a>b)
 printf("a가b보다 크다 : %d\n",a);
 else(a<b)
